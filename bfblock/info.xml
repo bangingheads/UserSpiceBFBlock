@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Brute Force Block</name>
+  <author>BangingHeads</author>
+<!-- Feel free to include your github repo here -->
+  <website>https://github.com/bangingheads/UserSpiceBFBlock</website>
+
+<!-- the version of the plugin iteself -->
+  <version>1.0.0</version>
+
+<!-- release date of THIS version -->
+  <release>December 22, 2020</release>
+
+<!-- the last version of UserSpice you tested the plugin with -->
+  <tested>5.2.2</tested>
+
+<!-- What does your plugin do? -->
+  <description>This plugin adds brute force protection to UserSpice logins by providing timeouts on excessive failed login attempts.</description>
+
+  <!-- This is the launch button in the plugin manager. If it is blank or missing, Configure Plugin will show up. -->
+    <button>Brute Force Block</button>
+</plugin>
